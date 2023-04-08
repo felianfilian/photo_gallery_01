@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+
+  padding: 20px;
+}
+
+.image-holder-01 {
+  display: flex;
+}
+
+.image-item {
+  height: 200px;
+}
+
+.image-item:hover {
+}
